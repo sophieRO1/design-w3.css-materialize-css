@@ -1,0 +1,57 @@
+.poco {
+    margin-left: 30px;
+}
+
+.img {
+   margin: 5px 20px;
+   padding-bottom: 30px;
+    background-image: url('design.jpg');
+    background-size: cover;
+    /* background-position: center; */
+}
+
+.card {
+    width: 500px;
+    height: 250px;
+    padding-top: 30px;
+   margin: auto;
+   margin-top: 200px;
+  background: #000;
+}
+
+
+.one {
+    margin-right: 20px;
+}
+
+
+.btn-black {
+    margin-left: 14px;
+    padding: 0 20px;
+}
+ul.links li {
+    display: inline;
+    margin: 4px;
+
+}
+
+ul.links i:hover {
+    color: rgb(48, 38, 38);
+
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+@media screen and (max-width:600) {
+    .poco {
+     text-align: center;
+    }
+} */
